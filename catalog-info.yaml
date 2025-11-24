@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: sample-service
-  description: demo service
+  name: Sample service
+  description: Demo service
   annotations:
     github.com/project-slug: https://github.com/chandan-cordova/sample-component/blob/main/catalog-info.yaml
 spec:
